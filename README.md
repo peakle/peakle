@@ -3,4 +3,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peakle&layout=compact&theme=dracula&hide_border=true" alt="languages" height="177">
 </p>
 
-See my Youtube [channel](https://www.youtube.com/channel/UCUZshQiEc9nJmXBHjWIjyNw) with latest meetups
+Watch my Youtube [channel](https://www.youtube.com/channel/UCUZshQiEc9nJmXBHjWIjyNw) with latest meetups
